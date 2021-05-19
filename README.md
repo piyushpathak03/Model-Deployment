@@ -1,11 +1,6 @@
-![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
-![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
-![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
-![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-
 # Model Deployment
 
-![logo](https://github.com/balavenkatesh3322/model_deployment/blob/master/logo.jpg)
+![logo](https://github.com/piyushpathak03/Model-Deployment/edit/main/logo.jpg)
 
 ## What is Model serving?
 When it comes to deploying ML models, data scientists have to make a choice based on their use case. If they need a high volume of predictions and latency is not an issue, they typically perform inference in batch, feeding the model with large amounts of data and writing the predictions into a table. If they need predictions at low latency, e.g. in response to a user action in an app, the best practice is to deploy ML models as REST endpoints. These apps allows to send requests to an endpoint that’s always up and receive the prediction immediately.
@@ -40,3 +35,22 @@ When it comes to deploying ML models, data scientists have to make a choice base
 | [model_server](https://github.com/openvinotoolkit/model_server) | OpenVINO™ Model Server is a scalable, high-performance solution for serving machine learning models optimized for Intel® architectures. The server provides an inference service via gRPC enpoint or REST API |
 
 ***
+
+
+## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
+
