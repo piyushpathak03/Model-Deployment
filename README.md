@@ -1,6 +1,6 @@
 # Model Deployment
 
-![logo](https://github.com/piyushpathak03/Model-Deployment/edit/main/logo.jpg)
+![logo](https://github.com/piyushpathak03/Model-Deployment/blob/main/logo.jpg)
 
 ## What is Model serving?
 When it comes to deploying ML models, data scientists have to make a choice based on their use case. If they need a high volume of predictions and latency is not an issue, they typically perform inference in batch, feeding the model with large amounts of data and writing the predictions into a table. If they need predictions at low latency, e.g. in response to a user action in an app, the best practice is to deploy ML models as REST endpoints. These apps allows to send requests to an endpoint that’s always up and receive the prediction immediately.
